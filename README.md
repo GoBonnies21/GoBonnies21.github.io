@@ -2,6 +2,6 @@
 
 This is an onging website project
 
-GoBonnies.github.io/Firts-Aid.html
+[First Aid Page] (GoBonnies.github.io/First-Aid.html)
 
 
